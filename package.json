@@ -4,15 +4,14 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "mysql": "nodemon app.js",
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "db": "nodemon app.js",
+    "start": "nodemon index.js"
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Andranik93/elk_test_arnaxum.git"
   },
-  "author": "",
+  "author": "Rebiss",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Andranik93/elk_test_arnaxum/issues"
